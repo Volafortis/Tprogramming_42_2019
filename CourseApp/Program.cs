@@ -28,7 +28,7 @@ namespace CourseApp
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Nikita_Bogomazov");
             const double a = 2.2;
             const double b = 3.8;
             var resSingle = MyFunction(a, b, 4);
