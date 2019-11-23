@@ -13,7 +13,7 @@ namespace CourseApp
 
         public Platypus(int age, string name, bool isMale)
         {
-            Name = name;
+            this.Name = name;
             Age = age;
             IsMale = isMale;
         }
